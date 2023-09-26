@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresuribeg
-- 👀 I’m interested in SQl Server administration and Web Development
+- 👀 I’m interested in SQL Server administration and Web Development
 - 🌱 I’m currently learning front and back develpment (Html, Css, JavaScript and Java )
 
 
